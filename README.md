@@ -58,7 +58,7 @@ The fastest way to get Sweety running:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/sweety-blood-glucose-tracker.git
+git clone https://github.com/kowshik0504/sweety-blood-glucose-tracker.git
 cd sweety-blood-glucose-tracker
 
 # 2. Start all services (PostgreSQL + API + Client)
@@ -89,7 +89,7 @@ The app will be available at:
 ### 1. Clone and install dependencies
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sweety-blood-glucose-tracker.git
+git clone https://github.com/kowshik0504/sweety-blood-glucose-tracker.git
 cd sweety-blood-glucose-tracker
 
 # Install server dependencies
